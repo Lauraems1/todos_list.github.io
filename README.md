@@ -8,8 +8,6 @@ In this project, we have to create a React App showing a To Dos list, in which t
 
 <img src="Captura de Pantalla 2024-10-30 a la(s) 19.19.28 (2).png" width='300'/>
 
-![Screenshot of one version of this ToDos list] (https://github.com/Lauraems1/todos_list.github.io/blob/main/Captura%20de%20Pantalla%202024-10-30%20a%20la(s)%2019.19.28%20(2).png)
-
 ## Available Scripts
 
 In the project directory, you can run:

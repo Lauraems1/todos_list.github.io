@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# To Dos List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+In this project, we have to create a React App showing a To Dos list, in which the user could enter and/or delet each element of that list. We also styled a bit that list and its webpage. Finally, we divide the javascript and the css code in different files to make the code cleaner and easier to understand.
 
 ## Available Scripts
 

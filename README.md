@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In this project, we have to create a React App showing a To Dos list, in which the user could enter and/or delet each element of that list. We also styled a bit that list and its webpage. Finally, we divide the javascript and the css code in different files to make the code cleaner and easier to understand.
 
+![Screenshot of one version of this ToDos list] (https://github.com/Lauraems1/todos_list.github.io/blob/main/Captura%20de%20Pantalla%202024-10-30%20a%20la(s)%2019.19.28%20(2).png)
+
 ## Available Scripts
 
 In the project directory, you can run:
